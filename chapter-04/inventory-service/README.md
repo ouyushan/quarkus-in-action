@@ -1,3 +1,7 @@
+# jdk
+
+oracle-graalvm-jdk-17
+
 # inventory-service Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
